@@ -1,1 +1,46 @@
+#header h1 {
+  font-size: 36px;
+  font-weight: 700;
+  color:  yellow;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+#header p{
+    text-align:left;
+    font-family:cursive;
+    font-size: 20px;
+    color:#fff;
+    padding:7px;
+}
+#header img{
+    max-width:100%
+    width:250px;
+    height:250px;
+}
+.container{
 
+    display:flex;
+    align-items:center;
+}
+.main {
+    background-color:black;
+}
+
+
+#footer {
+  background: #090909;
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+  padding: 30px 0;
+}
+
+
+#footer .copyright {
+  margin: 0 0 5px 0;
+
+}
+
+#footer .credits {
+  font-size: 13px;
+}
